@@ -13,6 +13,11 @@ A simple and fun Tic-Tac-Toe game built using Swift and UIKit framework. 100% pr
 
 ## Screenshots
 ![photo1](Photos/photo1.png)
+![photo2](Photos/photo2.png)
+![photo3](Photos/photo3.png)
+![photo4](Photos/photo4.png)
+![photo5](Photos/photo5.png)
+![photo6](Photos/photo6.png)
 
 ## Requirements
 
