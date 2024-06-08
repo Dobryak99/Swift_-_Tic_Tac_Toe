@@ -12,7 +12,7 @@ A simple and fun Tic-Tac-Toe game built using Swift and UIKit framework. 100% pr
 - Music toggle functionality.
 
 ## Screenshots
-
+![photo1](Photos/photo1.png)
 
 ## Requirements
 
