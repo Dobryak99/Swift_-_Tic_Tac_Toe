@@ -12,15 +12,29 @@ A simple and fun Tic-Tac-Toe game built using Swift and UIKit framework. 100% pr
 - Music toggle functionality.
 
 ## Screenshots
-![photo1](Photos/photo1.png)
-![photo2](Photos/photo2.png)
-![photo3](Photos/photo3.png)
-![photo4](Photos/photo4.png)
-![photo5](Photos/photo5.png)
-![photo6](Photos/photo6.png)
+![photo1](Photos/photo1.png)   ![photo2](Photos/photo2.png)   ![photo3](Photos/photo3.png)
+![photo4](Photos/photo4.png)   ![photo5](Photos/photo5.png)   ![photo6](Photos/photo6.png)
 
 ## Requirements
 
 - iOS 14.0+
 - Xcode 11+
 - Swift 5.0+
+
+## Installation
+
+Just download this repo on your mac and launch main file.
+
+## Credits
+
+Music:
+
+- "Rainy Days" Sample Pack (Pvlace, Frank Dukes)
+
+Font:
+
+- Manrope
+
+Assets:
+
+- [Dobryak99](https://github.com/Dobryak99)
